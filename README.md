@@ -8,7 +8,7 @@
 
 [应急食品官网](https://gtool.mukapp.top/)
 
-[下载站]([https://gtool.mukapp.top/](https://pan.mukapp.top/OneDrive/%e5%ba%94%e6%80%a5%e9%a3%9f%e5%93%81))
+[下载站](https://pan.mukapp.top/OneDrive/%e5%ba%94%e6%80%a5%e9%a3%9f%e5%93%81)
 
 [123云盘](https://www.123pan.com/s/jIyrVv-I83pH)（密码KKKK）
 
