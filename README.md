@@ -2,6 +2,12 @@
 
 应急食品的反馈渠道
 
+应急食品已于2023年7月9日永久停更
+
+停更公告：[点这里](https://flowus.cn/mukapp/share/f7e7092d-76da-4b3b-913c-615c07b1c98c)
+
+代码已完整公开：[MGenshinTool](https://github.com/MUKAPP/MGenshinTool)
+
 **反馈方式：点击上方“Issues”-点击绿色按钮“New Issue”-（注册/登录）-输入标题及反馈内容-点击绿色按钮“Submit new issue”**
 
 ## 软件下载：
